@@ -5,7 +5,7 @@ import java.time.format.DateTimeFormatter;
 import java.time.temporal.TemporalAdjusters;
 import java.util.Scanner;
 
-public class DebtPaymentCalculator {
+public class PaymentCalculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
